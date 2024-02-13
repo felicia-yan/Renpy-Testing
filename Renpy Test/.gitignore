@@ -1,0 +1,30 @@
+# ignored default folders
+cache/
+saves/
+
+# ignored misc extensions
+*.rpyc 
+*.rpyb 
+*.rpymc 
+*.pyc 
+*.pyo
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# ignored image asset extensions
+*.psd 
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# ignored base folder files
+log.txt
+errors.txt
+traceback.txt
+files.txt
+
